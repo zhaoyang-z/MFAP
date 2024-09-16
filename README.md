@@ -1,1 +1,3 @@
-# Macro-Foundation-for-AP
+# Macroeconomic Foundations for Asset Pricing
+
+NYU Stern
